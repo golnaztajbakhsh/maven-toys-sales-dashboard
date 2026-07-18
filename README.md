@@ -6,7 +6,13 @@ This project analyzes the business performance of **Maven Toys**, focusing on sa
 
 The solution combines **PostgreSQL** for data preparation and analysis with **Power BI** for interactive dashboard development.
 
-The dashboard provides actionable business insights by analyzing revenue trends, profitability, inventory status, product performance, and store-level performance.
+The project combines PostgreSQL for data preparation and SQL analysis with Power BI for interactive dashboard development, enabling business users to monitor sales performance, inventory efficiency, product performance, and store profitability through interactive visualizations.
+
+---
+
+## 📂 Dataset
+
+This project uses the Maven Toys retail dataset, which contains transactional sales, inventory, product, store, and calendar data. The dataset was analyzed using PostgreSQL and visualized in Power BI to generate business insights.
 
 ---
 
@@ -26,7 +32,6 @@ The main objectives of this project are:
 ## 🛠️ Technologies Used
 
 - PostgreSQL
-- SQL
 - Power BI
 - DAX
 
@@ -43,9 +48,10 @@ Provides a high-level overview of overall business performance.
 - Total Profit
 - Total Units Sold
 - Number of Product Types
+- Number of Stores
 - Profit Margin
 
-### Analysis:
+### Visualizations
 - Revenue by Category
 - Top Performing Stores
 - Top Performing Products
@@ -62,10 +68,10 @@ Focuses on inventory efficiency and stock management.
 - Low Stock Products
 - Out-of-Stock Products
 
-### Analysis:
-- Inventory Value by Store
+### Visualizations
+- Top 10 Stores by Inventory Value
 - Inventory Value Distribution by Category
-- Top Products by Inventory Value
+- Top 10 Products by Inventory Value
 - Inventory Value vs Units Sold
 - Product Inventory Performance Matrix
 
@@ -78,9 +84,9 @@ Evaluates store-level performance and profitability.
 ### Key Metrics:
 - Average Revenue per Store
 - Average Profit per Store
-- Best Performing Store
+- Best-Performing Store
 
-### Analysis:
+### Visualizations
 - Revenue Ranking by Store
 - Profit Ranking by Store
 - Profit Margin Analysis
@@ -138,26 +144,24 @@ The project uses PostgreSQL views to prepare analytical datasets for Power BI:
 
 Key SQL techniques applied:
 
-- Complex Joins
-- CTEs (Common Table Expressions)
+- JOINs
+- Common Table Expressions (CTEs)
 - Window Functions
-- Aggregations
-- Data Validation
-- KPI Calculation
+- Aggregate Functions
+- PostgreSQL Views
 
 ---
 
-# 🚀 Skills Demonstrated
+## 🚀 Skills Demonstrated
 
-- SQL Data Analysis
-- Data Preparation
-- Business Intelligence Development
-- Power BI Dashboard Design
+- PostgreSQL
+- SQL for Data Analysis
+- Power BI Dashboard Development
 - DAX Measures
-- KPI Development
-- Sales Analytics
-- Inventory Analytics
+- Business Intelligence Reporting
+- Sales Analysis
+- Inventory Analysis
 - Store Performance Analysis
-- Data Validation
+- KPI Development
 
 
