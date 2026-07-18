@@ -4,9 +4,7 @@
 
 This project analyzes the business performance of **Maven Toys**, focusing on sales performance, inventory efficiency, product analysis, and store profitability.
 
-The solution combines **PostgreSQL** for data preparation and analysis with **Power BI** for interactive dashboard development.
-
-The project combines PostgreSQL for data preparation and SQL analysis with Power BI for interactive dashboard development, enabling business users to monitor sales performance, inventory efficiency, product performance, and store profitability through interactive visualizations.
+The solution combines **PostgreSQL** for data preparation and analysis with **Power BI** for interactive dashboard development, enabling business users to monitor sales performance, inventory efficiency, product performance, and store profitability through interactive visualizations.
 
 ---
 
