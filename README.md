@@ -81,7 +81,7 @@ Focuses on inventory efficiency and stock management.
 
 ## 3. Store Performance Dashboard
 
-![Store Performance Dashboard](images/store%20performance.jpg)
+![Store Performance Dashboard](images/store%20performance.jpg) 
 
 Evaluates store-level performance and profitability.
 
