@@ -60,6 +60,8 @@ Provides a high-level overview of overall business performance.
 
 ## 2. Inventory Analysis Dashboard
 
+![Inventory Analysis Dashboard](images/einventory%20analysis.jpg)
+
 Focuses on inventory efficiency and stock management.
 
 ### Key Metrics:
@@ -78,6 +80,8 @@ Focuses on inventory efficiency and stock management.
 ---
 
 ## 3. Store Performance Dashboard
+
+![Store Performance Dashboard](images/store%20performance.jpg)
 
 Evaluates store-level performance and profitability.
 
