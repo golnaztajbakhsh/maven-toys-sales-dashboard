@@ -60,7 +60,7 @@ Provides a high-level overview of overall business performance.
 
 ## 2. Inventory Analysis Dashboard
 
-![Inventory Analysis Dashboard](images/einventory%20analysis.jpg)
+![Inventory Analysis Dashboard](images/inventory%20analysis.jpg)
 
 Focuses on inventory efficiency and stock management.
 
