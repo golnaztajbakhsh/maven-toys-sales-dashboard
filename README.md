@@ -39,7 +39,7 @@ The main objectives of this project are:
 
 ## 1. Executive Dashboard
 
-![Executive Dashboard](images/executive dashboard.jpg)
+![Executive Dashboard](images/executive%20dashboard.jpg)
 
 Provides a high-level overview of overall business performance.
 
