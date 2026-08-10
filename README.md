@@ -39,7 +39,7 @@ The main objectives of this project are:
 
 ## 1. Executive Dashboard
 
-![Executive Dashboard](images/executive%20dashboard.jpg)
+![Executive Dashboard](images/Executive_Dashboard.jpg)
 
 Provides a high-level overview of overall business performance.
 
@@ -60,7 +60,7 @@ Provides a high-level overview of overall business performance.
 
 ## 2. Inventory Analysis Dashboard
 
-![Inventory Analysis Dashboard](images/inventory%20analysis.jpg)
+![Inventory Analysis Dashboard](images/Inventory_Analysis.jpg)
 
 Focuses on inventory efficiency and stock management.
 
@@ -81,7 +81,7 @@ Focuses on inventory efficiency and stock management.
 
 ## 3. Store Performance Dashboard
 
-![Store Performance Dashboard](images/store%20performance.jpg) 
+![Store Performance Dashboard](images/Store_Performance.jpg) 
 
 Evaluates store-level performance and profitability.
 
